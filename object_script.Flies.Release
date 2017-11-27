@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\baseship.o
+./release\ship.o
+./release\fly.o
+./release\laser.o
+./release\background.o
+./release\text.o
+./release\qrc_resources.o
+./release\moc_mainwindow.o
+);

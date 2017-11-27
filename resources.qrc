@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/Images">
+        <file>flies1.png</file>
+        <file>flies2.png</file>
+        <file>flies3.png</file>
+        <file>flies4.png</file>
+        <file>habitacion_moscas.jpg</file>
+        <file>laser.png</file>
+        <file>nave_moscas.jpg</file>
+        <file>planeta_moscas.jpg</file>
+        <file>Ship.png</file>
+    </qresource>
+</RCC>
